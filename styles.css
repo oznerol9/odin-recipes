@@ -1,0 +1,23 @@
+.title {
+    background-color: black;
+    color: white;
+}
+
+#lasagna {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#risotto {
+    font-size: 30px;
+}
+
+#grilledchicken {
+    font-weight: bold;
+}
+
+/* I want to change id style of risotto and lasagna after the previous update */
+
+#recipes {
+    color: purple;
+    background-color: antiquewhite;
+}
